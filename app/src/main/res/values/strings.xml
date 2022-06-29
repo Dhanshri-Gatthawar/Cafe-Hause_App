@@ -4,4 +4,8 @@
     <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="skip">Skip</string>
+    <string name="upload_img">Upload Image</string>
+    <string name="name">XYZ</string>
+    <string name="no.">+1344523142</string>
+    <string name="email">xyz@email.com</string>
 </resources>
