@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         getSupportActionBar().hide();
         //Hide the code
+        //heyy!!
     }
 }
