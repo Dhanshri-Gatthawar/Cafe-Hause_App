@@ -8,4 +8,7 @@
     <string name="name">XYZ</string>
     <string name="no.">+1344523142</string>
     <string name="email">xyz@email.com</string>
+    <string name="or_with">Or with</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
 </resources>
